@@ -1,0 +1,5 @@
+name: VMC Web Connector
+main: com.vaxocgaming.plugins.bukkit.vmcwebconnect.VMCWebConnect
+version: 1.0
+author: iTechRemix
+description: Community connector plugin for the Vaxoc Gaming website!
